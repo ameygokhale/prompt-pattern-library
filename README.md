@@ -62,7 +62,8 @@ This step ensures downstream prompts operate on clear requirements rather than a
 
 ### Step-by-Step Planner — Task Decomposition
 
-![Step-by-Step Planner Example](screenshots/planner-example.png)
+![Step-by-Step Planner Example](screenshots/planner-example1.png)
+![Step-by-Step Planner Example](screenshots/planner-example2.png)
 
 After clarifying the goal, the **Step-by-Step Planner Prompt** is used to break the task
 into small, beginner-friendly actions.
@@ -79,7 +80,8 @@ This reduces cognitive load and makes the task easier to execute.
 
 ### Output Critic — Evaluating Generated Content
 
-![Output Critic Example](screenshots/critic-example.png)
+![Output Critic Example](screenshots/critic-example1.png)
+![Output Critic Example](screenshots/critic-example2.png)
 
 This screenshot shows the **Output Critic Prompt** reviewing an AI-generated draft
 of onboarding documentation.
